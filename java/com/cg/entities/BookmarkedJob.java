@@ -1,3 +1,4 @@
+package com.cg.freelanceapp.entities;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
